@@ -84,5 +84,10 @@ h3 {
       border-radius: 0;
       
     }
+
+    button {
+        position: relative;
+        bottom: 2rem;
+    }
   }
 
